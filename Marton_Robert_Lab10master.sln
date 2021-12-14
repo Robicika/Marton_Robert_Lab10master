@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marton_Robert_Lab10master", "Marton_Robert_Lab10master.csproj", "{92FB9334-AC46-447E-BD54-1FD6C3A6DF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "..\gRPCClient\gRPCClient.csproj", "{ECF3203C-68BD-4AF2-B9B3-553E7A35B2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FB9334-AC46-447E-BD54-1FD6C3A6DF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FB9334-AC46-447E-BD54-1FD6C3A6DF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FB9334-AC46-447E-BD54-1FD6C3A6DF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FB9334-AC46-447E-BD54-1FD6C3A6DF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF3203C-68BD-4AF2-B9B3-553E7A35B2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF3203C-68BD-4AF2-B9B3-553E7A35B2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF3203C-68BD-4AF2-B9B3-553E7A35B2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF3203C-68BD-4AF2-B9B3-553E7A35B2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69571CFA-3AC6-43F8-A8EC-E3A10C0D8728}
+	EndGlobalSection
+EndGlobal
